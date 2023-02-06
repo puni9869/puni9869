@@ -1,6 +1,6 @@
 ### Hi there 👋
 -   My name is **Punit Inani**.
-- 🔭 I’m currently working at @Rackspace as a senior software engineer.
+- 🔭 I’m currently working [@Rackspace](https://github.com/racker) as a senior software engineer.
 - 🌱 I’m currently learning about [containers](https://www.docker.com/resources/what-container/), [terraform](https://terraform.io), [golang](https://go.dev), [vuejs](https://vuejs.org).
 - 📫 How to reach me: [Here](https://github.com/puni9869/puni9869/issues/new).
 - ⚡ Fun stuff: [https://theurl.in](https://theurl.in)
